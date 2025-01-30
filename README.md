@@ -16,7 +16,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/foxytouxxx/freeroot.git
+    git clone https://github.com/tesserxandl1/freeroot1.git
     cd freeroot
     ```
 
